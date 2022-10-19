@@ -30,7 +30,9 @@ Um projeto desenvolvido pela [Bedimcode](https://www.youtube.com/watch?v=27JtRAI
 
 ## 🔖 Layout
 
-<img src="./src/img/preview.png">
+<p align="center">
+  <img alt="PREVIEW" src="https://uploaddeimagens.com.br/images/004/067/179/original/preview.png?1666192537">
+</p>
 
 ---
 
