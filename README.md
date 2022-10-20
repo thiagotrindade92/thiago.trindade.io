@@ -5,10 +5,10 @@ Resposivo pessoal portifolio website usando HTML CSS e JavaScript | Dark/Light M
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="https://www.linkedin.com/in/thiago-trindade-351892208/">Linkedin</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/thiago.trindade.902">Facebook</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Instagram</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Twitch</a>
 </p>
 
 <br>
@@ -30,18 +30,9 @@ Um projeto desenvolvido pela [Bedimcode](https://www.youtube.com/watch?v=27JtRAI
   <img alt="PREVIEW" src="https://uploaddeimagens.com.br/images/004/067/179/original/preview.png?1666192537">
 </p>
 
+## 📲 Contatos
+
+- E-mail: thiagotrindade628@gmail.com
+- Whatsapp: (91)99275-5537
+
 ---
-
-## 📲 Contatos & Social
-
-#### E-mail: thiagotrindade628@gmail.com
-
-#### Whatsapp: (91)99275-5537
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiago-trindade-351892208/">Linkedin</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/thiago.trindade.902">Facebook</a>&nbsp;&nbsp;&nbsp;
-
-</p>
