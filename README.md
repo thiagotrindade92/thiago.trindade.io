@@ -6,14 +6,10 @@ Resposivo pessoal portifolio website usando HTML CSS e JavaScript | Dark/Light M
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <a href="https://www.linkedin.com/in/thiago-trindade-351892208/">Linkedin</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/thiago.trindade.902">Facebook</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Instagram</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Twitch</a>
 </p>
 
 ---
@@ -39,7 +35,13 @@ Um projeto desenvolvido pela [Bedimcode](https://www.youtube.com/watch?v=27JtRAI
   <img alt="PREVIEW" src="https://uploaddeimagens.com.br/images/004/067/179/original/preview.png?1666192537">
 </p>
 
+## 📲 Contatos
+
+- E-mail: thiagotrindade628@gmail.com
+- Whatsapp: (91)99275-5537
+
 ---
+<<<<<<< HEAD
 
 <h2> 📲 Minhas redes sociais & Contato </h2>
 
@@ -58,3 +60,5 @@ Whatsapp: (91)99275-5537
 </div>
 
 <div>
+=======
+>>>>>>> 53de3798a51e467a3f4f62f630922cd31d46994d
