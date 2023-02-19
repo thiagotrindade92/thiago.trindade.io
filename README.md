@@ -35,17 +35,9 @@ Um projeto desenvolvido pela [Bedimcode](https://www.youtube.com/watch?v=27JtRAI
   <img alt="PREVIEW" src="https://uploaddeimagens.com.br/images/004/067/179/original/preview.png?1666192537">
 </p>
 
-## 📲 Contatos
-
-- E-mail: thiagotrindade628@gmail.com
-- Whatsapp: (91)99275-5537
-
----
-<<<<<<< HEAD
+<div align="center">
 
 <h2> 📲 Minhas redes sociais & Contato </h2>
-
-<div align="center">
 
 <p> E-mail: thiagotrindade628@gmail.com
 
@@ -60,5 +52,4 @@ Whatsapp: (91)99275-5537
 </div>
 
 <div>
-=======
->>>>>>> 53de3798a51e467a3f4f62f630922cd31d46994d
+
