@@ -18,7 +18,7 @@ Resposivo pessoal portifolio website usando HTML CSS e JavaScript | Dark/Light M
 
 <h2 align="left">🚀 Tecnologias </h2>
 
-<p>Esse projeto foi desenvolvido com as seguintes tecnologias sdasdasdasdasdasdasdasdasddsasas</p>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias</p>
 
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -37,7 +37,7 @@ Um projeto desenvolvido pela [Bedimcode](https://www.youtube.com/watch?v=27JtRAI
 
 <div align="center">
 
-<h2> 📲 Minhas redes sociais & Contato </h2>
+<h2 align="left"> 📲 Minhas redes sociais & Contato </h2>
 
 <p> E-mail: thiagotrindade628@gmail.com
 
